@@ -11,6 +11,7 @@ public class Program {
 	public static void main(String[] args) throws ParseException {
 	
 		System.out.println("Bom dia!");
+		System.out.println("Boa tarde!");
 	}
 
 }
